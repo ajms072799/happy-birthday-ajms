@@ -2,10 +2,24 @@
     * General Styles
 */
 body {
-    background: #ddd;
+    background: #232323;
+    color: #fff;
 }
+
+
+/*
+    * Main Container Styles
+*/
 
 .main-container {
     width: 600px;
     margin: 100px auto;
+}
+
+/*
+    * Aside header image Styles
+*/
+
+.main-header img{
+    border-radius: 20px 20px 0 0;
 }
