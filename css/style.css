@@ -1,0 +1,11 @@
+/*
+    * General Styles
+*/
+body {
+    background: #ddd;
+}
+
+.main-container {
+    width: 600px;
+    margin: 100px auto;
+}
