@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    background: #232323;
+    background: #ddd;
     color: #fff;
 }
 
@@ -26,16 +26,27 @@ h1, h2 {
 /*
     * Aside header image Styles
 */
+.main-header {
+    line-height: 0;
+}
 
 .main-header img{
     border-radius: 20px 20px 0 0;
-    border: #f4a700 1px solid;
 }
 
 /*
     * Section About
 */
-
 .section-about {
-    text-align: center;
+    background: #232323;
+    overflow: auto;
+}
+
+.section-about h1 {
+   text-align: center;
+   margin: 0;
+}
+
+.section-duobeer img{
+    float: right;
 }
