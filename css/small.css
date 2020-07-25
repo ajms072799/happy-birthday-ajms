@@ -16,11 +16,7 @@
     * Section About Small Styles
 */
 
-aside.section-duobeer img {
-    width: 100%;
-}
-
-aside.section-duobeer {
+aside.section-duobeer, aside.qrcode-contact {
     text-align: center;
     float: inherit;
 }
