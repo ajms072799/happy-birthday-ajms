@@ -6,7 +6,10 @@ html {
 }
 
 body {
-    background: #ddd;
+    background-image: url("/image/space-background.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     color: #232323;
 }
 
