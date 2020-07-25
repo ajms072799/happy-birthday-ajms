@@ -66,3 +66,23 @@ aside.section-duobeer{
     float: right;
     margin: 24px;
 }
+
+/*
+    * Section Contact and Address Styles
+*/
+
+.section-contact {
+    background: #fff;
+    padding: 2.5rem;
+    text-align: center;
+    overflow: auto;
+}
+
+.section-contact h2{
+    font-weight: bold;
+}
+
+aside.qrcode-contact {
+    float: left;
+    margin: 24px;
+}
