@@ -7,11 +7,19 @@ html {
 
 body {
     background: #ddd;
-    color: #fff;
+    color: #232323;
 }
 
 h1, h2 {
-    color: #f4a700;
+    color: #232323;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 22px;
 }
 
 /*
@@ -39,15 +47,22 @@ h1, h2 {
     * Section About
 */
 .section-about {
-    background: #232323;
     overflow: auto;
+    padding: 2.5rem;
+    background-color: #fff;
 }
 
 .section-about h1 {
    text-align: center;
-   margin: 0;
+   font-weight: bold;
+   margin-bottom: 1.75rem;
 }
 
-.section-duobeer img{
+.section-about p {
+    margin-bottom: 1.75rem;
+}
+
+aside.section-duobeer{
     float: right;
+    margin: 24px;
 }

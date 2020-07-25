@@ -1,3 +1,26 @@
-body {
-    background: #FFF;
+/*
+    * Main Container Small Styles
+*/
+
+.main-container {
+    width: 100%;
+    margin: 0;
+}
+
+.main-header img {
+    width: 100%;
+    border-radius: 0;
+}
+
+/*
+    * Section About Small Styles
+*/
+
+aside.section-duobeer img {
+    width: 100%;
+}
+
+aside.section-duobeer {
+    text-align: center;
+    float: inherit;
 }
