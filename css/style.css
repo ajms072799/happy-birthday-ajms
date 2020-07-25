@@ -91,3 +91,11 @@ aside.qrcode-contact {
 .section-contact p {
     margin-bottom: 1.75rem;
 }
+
+/*
+    * Section location Styles
+*/
+
+.section-location {
+    width: 100%;
+}

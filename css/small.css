@@ -20,3 +20,10 @@ aside.section-duobeer, aside.qrcode-contact {
     text-align: center;
     float: inherit;
 }
+/*
+    * Section Location Small Styles
+*/
+
+.section-location iframe{
+    width: 100%;
+}
