@@ -73,6 +73,7 @@ aside.section-duobeer{
 
 .section-contact {
     background: #fff;
+    border-top: 1px solid #232323;
     padding: 2.5rem;
     text-align: center;
     overflow: auto;
@@ -80,9 +81,13 @@ aside.section-duobeer{
 
 .section-contact h2{
     font-weight: bold;
+    margin-bottom: 1.75rem;
 }
 
 aside.qrcode-contact {
     float: left;
-    margin: 24px;
+}
+
+.section-contact p {
+    margin-bottom: 1.75rem;
 }
